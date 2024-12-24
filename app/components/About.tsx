@@ -1,7 +1,7 @@
 function About() {
   return (
     <div
-      className='text-2xl bg-[#c88d8d] my-32 p-6 rounded-l sm:mx-9 md:mx-20 lg:mx-40'
+      className='text-2xl bg-gradient-to-r from-indigo-400 via-purple-700 to-pink-400 my-32 p-6 rounded-l sm:mx-9 md:mx-20 lg:mx-40'
       typeof='text'
     >
       <h1 className='text-black  text-center py-9'>
