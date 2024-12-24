@@ -1,13 +1,14 @@
 function About() {
   return (
     <div
-      className='text-2xl bg-[#c88d8d] my-32 rounded-l sm:mx-9'
+      className='text-2xl bg-[#c88d8d] my-32 p-6 rounded-l sm:mx-9 md:mx-20 lg:mx-40'
       typeof='text'
     >
       <h1 className='text-black  text-center py-9'>
         Hi, Im Nicholas Quiroz, a full-stack developer with a passion for
         creating beautiful, functional, and user-friendly applications. I am
-        currently looking for a full-time position as a software engineer.
+        currently looking for a full-time/intership position as a software
+        engineer.
       </h1>
       <p className='text-black text-center py-9'>
         I'm self-taught, a passionate devoploper, and I have been coding for
