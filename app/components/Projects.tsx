@@ -41,6 +41,7 @@ function Projects() {
           <Link
             href='https://smilemore-gg0co08in-alumists-projects.vercel.app/'
             className='inset-0 rounded-lg '
+            target='_blank'
           >
             <h1 className='text-l text-white text-center'>SmileMore</h1>
             <Image
