@@ -38,13 +38,16 @@ function Projects() {
           </Link>
         </div>
         <div>
-          <Link href='/about' className='inset-0 rounded-lg '>
-            <h1 className='text-l text-white text-center'>LoopStudios</h1>
+          <Link
+            href='https://smilemore-gg0co08in-alumists-projects.vercel.app/'
+            className='inset-0 rounded-lg '
+          >
+            <h1 className='text-l text-white text-center'>SmileMore</h1>
             <Image
-              src='/images/loopstudios.jpg'
+              src='/images/smilemore.jpg'
               width={500}
               height={500}
-              alt='Loop Studios project screenshot'
+              alt='SmileMore project screenshot'
               className='transition duration-500 ease-in-out transform hover:translate-y-3 hover:scale-110 hover:bg-gray-800'
             />
           </Link>
