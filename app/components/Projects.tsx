@@ -39,7 +39,7 @@ function Projects() {
         </div>
         <div>
           <Link
-            href='https://smilemore-gg0co08in-alumists-projects.vercel.app/'
+            href='https://smilemore.vercel.app/'
             className='inset-0 rounded-lg '
             target='_blank'
           >
