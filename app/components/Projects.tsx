@@ -44,7 +44,7 @@ function Projects() {
           >
             <h1 className='text-l text-white text-center'>SmileMore</h1>
             <Image
-              src='/images/smilemore.jpg'
+              src='/images/smilemore.png'
               width={500}
               height={500}
               alt='SmileMore project screenshot'
