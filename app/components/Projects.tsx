@@ -54,15 +54,21 @@ function Projects() {
           </Link>
         </div>
         <div>
-          <Link href='/about' className='inset-0 rounded-lg'>
+          <Link
+            href='https://github.com/Alumist/HolyGrounds'
+            className='inset-0 rounded-lg'
+            target='_blank'
+          >
             <Image
-              src='/images/loopstudios.jpg'
+              src='/images/HolyGrounds.png'
               width={500}
               height={500}
               alt='Loop Studios project screenshot'
               className=' transition duration-500 ease-in-out transform hover:-translate-y-3 hover:scale-110 hover:bg-gray-800'
             />
-            <h1 className='text-l text-white text-center'>LoopStudios</h1>
+            <h1 className='text-l text-white text-center'>
+              HolyGrounds(Biggest Project)
+            </h1>
           </Link>
         </div>
       </div>
